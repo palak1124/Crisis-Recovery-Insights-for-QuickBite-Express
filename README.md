@@ -19,7 +19,7 @@ QuickBite Express, a leading food delivery startup, faced a major operational cr
 
 ### 🔗 Project Links
 
-*  **Video Presentation:** [Add YouTube Link]
+*  **Video Presentation:** https://youtu.be/P2TBRb-7CJ8?si=OE242PTTjL2-rxtw
 *  **Interactive Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiNmJjZDNkZWEtY2ZjNS00NTdhLTg3YTAtODViNDQyZTE2NTAwIiwidCI6ImExNzMxZTY3LTM2ZmEtNDAxOC1hZGFjLTYwZjQ1MmFlYmViMiJ9
 
 
