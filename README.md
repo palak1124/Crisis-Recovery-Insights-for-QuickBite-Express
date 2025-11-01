@@ -62,6 +62,3 @@ QuickBite Express, a leading food delivery startup, faced a major operational cr
 The QuickBite crisis was not caused by market competition but by **operational inefficiencies and trust loss**.
 Recovery must focus on **reliability, hygiene transparency, and customer-centric communication**.
 By rebuilding loyalty and leveraging Power BI for continuous monitoring, QuickBite can move confidently **from Crisis to Comeback**.
-
-
-Would you like me to add a **table of contents + GitHub-optimized formatting (colored badges, emojis, section dividers)** so it looks visually appealing on your repository page?
