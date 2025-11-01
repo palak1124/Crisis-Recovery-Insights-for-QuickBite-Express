@@ -1,7 +1,6 @@
 # Crisis-Recovery-Insights-for-QuickBite-Express
 
 
-# 🍴 QuickBite Express – Crisis Recovery Insights
 
 ###  Problem Statement
 
