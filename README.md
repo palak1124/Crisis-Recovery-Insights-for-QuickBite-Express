@@ -7,8 +7,6 @@
 QuickBite Express, a leading food delivery startup, faced a major operational crisis in mid-2025. The company witnessed a steep fall in customer activity, delayed deliveries, and plummeting ratings. The goal was to analyze pre- and post-crisis data to uncover root causes, segment user behavior, and design a data-driven recovery strategy.
 <img width="1338" height="749" alt="image" src="https://github.com/user-attachments/assets/ca1057e6-9571-4060-985b-060adb5c2771" />
 
-<img width="1221" height="689" alt="image" src="https://github.com/user-attachments/assets/ac7a0053-e6e4-4ec7-a88a-9e9c06f69ed9" />
-
 <img width="1086" height="607" alt="image" src="https://github.com/user-attachments/assets/14006e18-a548-4fbd-a61b-e960816b44f3" />
 
 ###  Tools Used
